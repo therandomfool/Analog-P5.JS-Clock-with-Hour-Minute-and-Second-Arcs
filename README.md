@@ -8,9 +8,7 @@
 
 - used array to represent month name rather than month number
 
-- uses the second 'sc' variable to animate time and date text opposite directions  
-
-- Animation returns to starting point when seconds go from 60 to 1
+- Text date and time animated to bounce back and forth above and below the Analog clock
 
 - nf() to set display to show 2 places for text time, and day i.e. display 06:37:04 rather than 6:37:4 or 06 June 2020 rather than 6 June 2020
 
